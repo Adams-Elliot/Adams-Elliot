@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @Adams-Elliot (Elliot Adams)
+- 🌱 I’m currently learning PHP, JavaScript and C++
+- 👀 I’m interested in Reverse Engineering, Web Development and Cyber Security
+- 👯 I’m looking to collaborate on anything web related
+- 📫 How to reach me: coding@elliotadams.de
